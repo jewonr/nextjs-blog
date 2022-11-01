@@ -17,7 +17,7 @@ export default function Document() {
           type="image/png"
           sizes="32x32"
         />
-        <link rel="apple-touch-icon" href="images/icons/icon-96x96.png"></link>
+        <link rel="apple-touch-icon" href="images/icons/icon-48x48.png"></link>
         <meta name="theme-color" content="#317EFB"/>
         <meta name="msapplication-TileColor" content="#384CFE"></meta>
         <link href="images/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />

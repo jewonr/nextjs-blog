@@ -5,7 +5,7 @@
     "scope": "/",
     "start_url": "/",
     "name": "nextjs-blog",
-    "short_name": "nxtblg",
+    "short_name": "nextjs-blog",
     "description": "nextjs pwa test.",
     "icons": [
         {
